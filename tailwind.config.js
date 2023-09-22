@@ -11,8 +11,8 @@ module.exports = {
         'md-max': { 'max': '850px' }, // Define the custom breakpoint here
       },
       colors: {
-        'primary-color': '#4571BD',
-        'secondary-color': '#1A073A',
+        'primary-color': '#593cfb',
+        'secondary-color': '#4733b7',
         'tertiary-color': '#ecf0f3',
       },
     },
