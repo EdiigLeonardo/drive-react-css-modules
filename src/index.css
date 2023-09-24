@@ -29,3 +29,23 @@ body {
 a{
   cursor: pointer;
 }
+
+::-webkit-scrollbar {
+  width: 0.8em;
+  background: transparent; 
+}
+::-webkit-scrollbar-track {
+  background: transparent; 
+  background-color: rgba(0, 0, 0, 0.575);
+}
+::-webkit-scrollbar-thumb {
+  opacity: 0.2;
+  background: #01010200; 
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  opacity: 0.5;
+  background: rgba(0, 0, 0, 0.041); 
+  border-radius: 10px;
+}
