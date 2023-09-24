@@ -40,12 +40,12 @@ a{
 }
 ::-webkit-scrollbar-thumb {
   opacity: 0.2;
-  background: #01010200; 
+  background: #0101029d; 
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   opacity: 0.5;
-  background: rgba(0, 0, 0, 0.041); 
+  background: rgba(0, 0, 0, 0.329); 
   border-radius: 10px;
 }
