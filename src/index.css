@@ -21,7 +21,11 @@ a {
 }
 
 body {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   line-height: 1.3;
   font-family: 'Poppins', sans-serif;
+}
+
+a{
+  cursor: pointer;
 }
